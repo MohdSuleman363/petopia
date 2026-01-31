@@ -1,4 +1,4 @@
-# Petopia – Pet Adoption Web Application
+# Petopia - Pet Adoption Web Application
 
 Petopia is a web-based **Pet Adoption Application** developed using **Flask (Python)**.  
 The application allows users to view pets available for adoption and supports basic backend functionality for managing pet-related information through a web interface.
